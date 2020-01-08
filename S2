@@ -1,0 +1,9 @@
+$!mailBody
+
+i.e. $!remoteUser.displayName | $!jetiFieldRenderer.getUserProperties($!remoteUser).getString("jira.meta.NIEOPS Signature Title")<br />
+
+Tel.: 222 267 267
+Fax: +420 224 235 749
+ni.czech@ni.com
+
+National Instruments (Czech Republic), s.r.o. | czech.ni.com | Mikulandská 123/2 |110 00 Praha 1 
