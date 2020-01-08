@@ -2,7 +2,7 @@ $!mailBody
 
 i.e. $!remoteUser.displayName | $!jetiFieldRenderer.getUserProperties($!remoteUser).getString("jira.meta.NIEOPS Signature Title")<br />
 
-Tel.: 800 267 267
+Tel.: 999 267 267
 Fax: +420 224 235 749
 ni.czech@ni.com
 
